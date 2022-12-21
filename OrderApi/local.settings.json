@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ConnectionString": "Endpoint=sb://sb-quickkart-group4.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=AjMcaDj2UMwd5DmP6MaElgXpP1spa8l+pHG6KsSJvnk="
+  }
+}
