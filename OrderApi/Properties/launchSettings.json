@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrderApi": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7081 --pause-on-error"
+    }
+  }
+}
